@@ -4,7 +4,6 @@
 
 GPG: 85BE B9D2 5298 A03E C10F  8D8C 658B AFDB 84F9 E5C5
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tepzilon&layout=compact&hide=jupyter%20notebook,html,css,dockerfile&theme=dark)
 <!--
 **tepzilon/tepzilon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
