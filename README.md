@@ -1,4 +1,4 @@
-#engineer #platform #cloud #network #linux #sysadmin #defi #web3
+#engineer #platform #cloud #network #linux #sysadmin #automation #raistoneskeeper
 
 GPG: [E542F33EA4CBDD91103B020AC3EE92072D09C266](https://keys.openpgp.org/vks/v1/by-fingerprint/E542F33EA4CBDD91103B020AC3EE92072D09C266)
 
