@@ -1,4 +1,4 @@
-#engineer #platform #cloud #network #linux #sysadmin #automation #raistoneskeeper
+#engineer #platform #cloud #network #linux #sysadmin
 
 GPG: [7AD2184EE2BD513CDC0086A6B572EE3B71C3BBBB](https://keys.openpgp.org/vks/v1/by-fingerprint/7AD2184EE2BD513CDC0086A6B572EE3B71C3BBBB)
 
